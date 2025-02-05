@@ -42,5 +42,3 @@ Welcome to my GitHub! I'm a passionate Full-Stack Developer skilled in both fron
 ### 📝 [Quiz App](https://github.com/Unfathomable-08/Quiz-App)
 - **Description:** A quiz application where users can take quizzes, view results, and track progress. The app uses **Node.js**, **MongoDB**, and **EJS** for dynamic rendering and storing quiz data.
 - **Technologies Used:** Node.js, MongoDB, EJS, Express, JavaScript.
-
----
