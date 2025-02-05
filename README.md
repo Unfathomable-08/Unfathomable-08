@@ -27,7 +27,7 @@ Welcome to my GitHub! I'm a passionate Full-Stack Developer skilled in both fron
 
 ## 📂 Featured Projects
 
-### 📊 [Data Visualization App](link-to-project)
+### 📊 [Data Visualization App](https://github.com/Unfathomable-8/data-visualization.git)
 - **Description:** A web application that visualizes data using **Chart.js**, **React.js**, and **Bootstrap**. The app fetches data and displays it in interactive charts, helping users make informed decisions based on visual data insights.
 - **Technologies Used:** React, Chart.js, Bootstrap, JavaScript.
   
@@ -35,7 +35,7 @@ Welcome to my GitHub! I'm a passionate Full-Stack Developer skilled in both fron
 
 ---
 
-### 💻 [LMS Portal](link-to-project)
+### 💻 [LMS Portal](https://github.com/Unfathomable-8/lms.git)
 - **Description:** A Learning Management System (LMS) built using **React.js**. This portal allows instructors to create and manage courses, upload materials, and track student progress. It also supports features like quizzes and assignments.
 - **Technologies Used:** React.js, JavaScript, CSS, Bootstrap.
   
@@ -43,7 +43,7 @@ Welcome to my GitHub! I'm a passionate Full-Stack Developer skilled in both fron
 
 ---
 
-### 📝 [Quiz App](link-to-project)
+### 📝 [Quiz App](https://github.com/Unfathomable-8/quiz-app.git)
 - **Description:** A quiz application where users can take quizzes, view results, and track progress. The app uses **Node.js**, **MongoDB**, and **EJS** for dynamic rendering and storing quiz data.
 - **Technologies Used:** Node.js, MongoDB, EJS, Express, JavaScript.
   
