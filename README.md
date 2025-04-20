@@ -25,6 +25,14 @@ Welcome to my GitHub! I'm a passionate Full-Stack Developer skilled in both fron
 
 ---
 
+**🔍 My Top Technologies**
+
+- My most-used technology and languages across my GitHub repositories, reflecting my tech usage.
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Unfathomable-08&layout=compact&theme=tokyonight&langs_count=5)
+
+---
+
 **📂 Featured Projects**
 
 - **📊 [Data Visualization App](https://github.com/Unfathomable-08/Data-Visualization)**
