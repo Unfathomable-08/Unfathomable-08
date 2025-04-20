@@ -6,10 +6,10 @@ Welcome to my GitHub! I'm a passionate Full-Stack Developer skilled in both fron
 
 **📬 Connect With Me**
 
-- ![Instagram](https://raw.githubusercontent.com/Unfathomable-08/Unfathomable-08/main/assets/instagram-icon.png) [Instagram](https://www.instagram.com/Unfathomable_08)
-- ![Twitter](https://raw.githubusercontent.com/Unfathomable-08/Unfathomable-08/main/assets/twitter-icon.png) [Twitter](https://twitter.com/Unfathomable_08)
-- ![Email](https://raw.githubusercontent.com/Unfathomable-08/Unfathomable-08/main/assets/email-icon.png) [muhammad124711@gmail.com](mailto:muhammad124711@gmail.com)
-
+- 📸 [Instagram](https://www.instagram.com/unfathomable_08)
+- 🐦 [Twitter](https://twitter.com/unfathomable_08)
+- ✉️ [yourname@example.com](mailto:muhammmad124711@gmail.com)
+  
 ---
 
 **🚀 Technologies & Tools I Work With**
