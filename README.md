@@ -4,6 +4,12 @@ Welcome to my GitHub! I'm a passionate Full-Stack Developer skilled in both fron
 
 ---
 
+- <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="20"> [Instagram](https://www.instagram.com/unfathomable_08)
+- <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" height="20"> [Twitter](https://twitter.com/unfathomable_08)
+- <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="20"> [yourname@example.com](mailto:muhammad124711@gmail.com)
+
+---
+
 **🚀 Technologies & Tools I Work With**
 
 - **🖥️ Front-End Development:**
