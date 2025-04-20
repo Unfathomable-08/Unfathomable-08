@@ -4,9 +4,11 @@ Welcome to my GitHub! I'm a passionate Full-Stack Developer skilled in both fron
 
 ---
 
-- <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" height="20"> [Instagram](https://www.instagram.com/unfathomable_08)
-- <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" height="20"> [Twitter](https://twitter.com/unfathomable_08)
-- <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="20"> [yourname@example.com](mailto:muhammad124711@gmail.com)
+**📬 Connect With Me**
+
+- ![Instagram](https://raw.githubusercontent.com/Unfathomable-08/Unfathomable-08/main/assets/instagram-icon.png) [Instagram](https://www.instagram.com/Unfathomable_08)
+- ![Twitter](https://raw.githubusercontent.com/Unfathomable-08/Unfathomable-08/main/assets/twitter-icon.png) [Twitter](https://twitter.com/Unfathomable_08)
+- ![Email](https://raw.githubusercontent.com/Unfathomable-08/Unfathomable-08/main/assets/email-icon.png) [muhammad124711@gmail.com](mailto:muhammad124711@gmail.com)
 
 ---
 
