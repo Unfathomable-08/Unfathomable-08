@@ -4,24 +4,35 @@ Welcome to my GitHub! I'm a passionate Full-Stack Developer skilled in both fron
 
 ---
 
-**🚀 Technologies & Tools I Work With**
-
 - **🖥️ Front-End Development:**
-  - **HTML** | **CSS** | **JavaScript**
-  - **React** | **Next.js** | **Alpine.js**
-  - **Tailwind CSS** | **Bootstrap**
-  - **Zustand** | **Framer Motion**
-  - **Chart.js**
+  - ![HTML](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg) 
+  - ![CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg) 
+  - ![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg) 
+  - ![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg) 
+  - ![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg) 
+  - ![Alpine.js](https://cdn.jsdelivr.net/gh/alpinejs/alpine@master/assets/logo.svg) 
+  - ![Tailwind CSS](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg) 
+  - ![Bootstrap](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg) 
+  - ![Zustand](https://raw.githubusercontent.com/pmndrs/zustand/main/docs/zustand.png) 
+  - ![Framer Motion](https://framerusercontent.com/modules/0vB2S7q3zG3zL1uL0X3V/0F1eJqM6V2YJZyUAg3Az/framer-motion-logo.png) 
+  - ![Chart.js](https://www.chartjs.org/img/chartjs-logo.svg) 
 
 - **⚙️ Back-End Development:**
-  - **Node.js** | **Express** | **PHP**
-  - **Python** | **Flask** | **FastAPI**
-  - **MySQL** | **MongoDB** | **PostgreSQL**
-  - **Socket.IO**
+  - ![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg) 
+  - ![Express](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg) 
+  - ![PHP](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg) 
+  - ![Python](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) 
+  - ![Flask](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg) 
+  - ![FastAPI](https://cdn.jsdelivr.net/gh/tiangolo/fastapi/main/img/logo-margin/logo-teal.png) 
+  - ![MySQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) 
+  - ![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) 
+  - ![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) 
+  - ![Socket.IO](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg) 
 
 - **🌍 Other Tools & Platforms:**
-  - **WordPress**
-  - **Git** | **GitHub**
+  - ![WordPress](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg) 
+  - ![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg) 
+  - ![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg) 
 
 ---
 
