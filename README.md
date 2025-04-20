@@ -35,6 +35,10 @@ Welcome to my GitHub! I'm a passionate Full-Stack Developer skilled in both fron
 
 **📂 Featured Projects**
 
+- **🩺 [Medicine Recommendation System](https://github.com/Unfathomable-08/Medicine-Recommendation-System)**
+  - Description: A web application that predicts diseases based on user-selected symptoms using **scikit-learn** and **Flask**. It also recommends medicines, diets, and precautions to support health management.
+  - Technologies Used: Flask, scikit-learn, Alpine.js, NumPy, Pandas
+
 - **📊 [Data Visualization App](https://github.com/Unfathomable-08/Data-Visualization)**
   - Description: A web application that visualizes data using **Chart.js**, **React.js**, and **Bootstrap**. The app fetches data and displays it in interactive charts, helping users make informed decisions based on visual data insights.
   - Technologies Used: React, Chart.js, Bootstrap, JavaScript
