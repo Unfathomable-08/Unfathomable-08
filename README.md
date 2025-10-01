@@ -1,6 +1,6 @@
 ### 👨‍💻 Full-Stack Developer Portfolio 🌐
 
-Welcome to my GitHub! I'm a passionate Full-Stack Developer skilled in both front-end and back-end development. Below are some of my projects that demonstrate my ability to build dynamic, interactive, and scalable web applications. Let’s collaborate on something amazing! 🚀
+Welcome to my GitHub! I'm a passionate Full-Stack Web Developer and Applied AI Developer . Below are some of my projects that demonstrate my ability to build dynamic, interactive, and scalable web applications. Let’s collaborate on something amazing! 🚀
 
 ---
 
@@ -43,6 +43,10 @@ Welcome to my GitHub! I'm a passionate Full-Stack Developer skilled in both fron
 
 **📂 Featured Projects**
 
+- **💻 [Rag Agent](https://github.com/Unfathomable-08/Rag-Agent)**
+  - Description: A RAG agent for e-commerce stores, built with **LangChain**, **LangGraph**, and **Hugging Face**. Enhances product search, recommendations, and customer support using retrieval-augmented generation.
+  - Technologies Used: Langchain, LangGraph, Python, Flask, HuggingFace
+
 - **🩺 [Medicine Recommendation System](https://github.com/Unfathomable-08/Medicine-Recommendation-System)**
   - Description: A web application that predicts diseases based on user-selected symptoms using **scikit-learn** and **Flask**. It also recommends medicines, diets, and precautions to support health management.
   - Technologies Used: Flask, scikit-learn, Alpine.js, NumPy, Pandas
@@ -50,10 +54,6 @@ Welcome to my GitHub! I'm a passionate Full-Stack Developer skilled in both fron
 - **📊 [Data Visualization App](https://github.com/Unfathomable-08/Data-Visualization)**
   - Description: A web application that visualizes data using **Chart.js**, **React.js**, and **Bootstrap**. The app fetches data and displays it in interactive charts, helping users make informed decisions based on visual data insights.
   - Technologies Used: React, Chart.js, Bootstrap, JavaScript
-
-- **💻 [LMS Portal](https://github.com/Unfathomable-08/LMS)**
-  - Description: A Learning Management System (LMS) built using **React.js**. This portal allows instructors to create and manage courses, upload materials, and track student progress. It also supports features like quizzes and assignments.
-  - Technologies Used: React.js, JavaScript, CSS, Bootstrap
 
 - **📝 [Quiz App](https://github.com/Unfathomable-08/Quiz-App)**
   - Description: A quiz application where users can take quizzes, view results, and track progress. The app uses **Node.js**, **MongoDB**, and **EJS** for dynamic rendering and storing quiz data.
