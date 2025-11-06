@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a passionate Full-Stack Web Developer and Applied AI D
 
 - 📸 [Instagram](https://www.instagram.com/unfathomable_08)
 - 🐦 [Twitter](https://twitter.com/unfathomable_08)
-- ✉️ [yourname@example.com](mailto:muhammmad124711@gmail.com)
+- ✉️ [muhammad124711@gmail.com](mailto:muhammmad124711@gmail.com)
   
 ---
 
@@ -23,9 +23,9 @@ Welcome to my GitHub! I'm a passionate Full-Stack Web Developer and Applied AI D
 
 - **⚙️ Back-End Development:**
   - **Node.js** | **Express** | **PHP**
-  - **Python** | **Flask** | **FastAPI**
-  - **MySQL** | **MongoDB** | **PostgreSQL**
-  - **Socket.IO**
+  - **Python** | **Golang** | **Flask**
+  - **FastAPI** | **MySQL** | **MongoDB**
+  - **PostgreSQL** | **Socket.IO**
 
 - **🌍 Other Tools & Platforms:**
   - **WordPress**
