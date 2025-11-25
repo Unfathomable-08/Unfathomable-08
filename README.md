@@ -37,7 +37,7 @@ Welcome to my GitHub! I'm a passionate Full-Stack Web Developer and Applied AI D
 
 - My most-used technology and languages across my GitHub repositories, reflecting my tech usage.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Unfathomable-08&show_icons=true&locale=en&layout=compact&theme=transparent&langs_count=5)
+![Top Languages](https://github-readme-stats-wheat-nine-24.vercel.app/api/top-langs/?username=Unfathomable-08&show_icons=true&locale=en&layout=compact&theme=transparent&langs_count=10)
 
 ---
 
