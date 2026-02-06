@@ -87,9 +87,7 @@ _Real-time AI-driven voice assistant powered by LiveKit and Google Gemma._
 
 ## ── GitHub Stats ──
 
-<div align="center">
 ![Top Languages](https://github-readme-stats-wheat-nine-24.vercel.app/api/top-langs/?username=Unfathomable-08&show_icons=true&locale=en&layout=compact&theme=transparent&langs_count=8)
-</div>
 
 ---
 
