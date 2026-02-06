@@ -33,7 +33,7 @@ Welcome to my GitHub! I'm a passionate Full-Stack Web Developer and Applied AI D
 
 ---
 
-**🔍 My Top Technologies**
+**My Top Technologies**
 
 - My most-used technology and languages across my GitHub repositories, reflecting my tech usage.
 
@@ -41,20 +41,16 @@ Welcome to my GitHub! I'm a passionate Full-Stack Web Developer and Applied AI D
 
 ---
 
-**📂 Featured Projects**
+**Featured Projects**
 
-- **💻 [Rag Agent](https://github.com/Unfathomable-08/Rag-Agent)**
-  - Description: A RAG agent for e-commerce stores, built with **LangChain**, **LangGraph**, and **Hugging Face**. Enhances product search, recommendations, and customer support using retrieval-augmented generation.
-  - Technologies Used: Langchain, LangGraph, Python, Flask, HuggingFace
+- **[Fluentyx](https://github.com/Unfathomable-08/Fluentyx)**
+  - Description: A live **Arabic learning** platform, offering **AI-powered** tutorials and question-answering tests. Built with Next.js for a dynamic, responsive UI, **PyTorch-based CNN** for processing **Arabic handwriting**, and integrates LangChain with HuggingFace models for **realtime question-answering**.
+  - Technologies Used: Next.js, Python, LangChain, LangGraph, Pytorch
 
-- **🩺 [Medicine Recommendation System](https://github.com/Unfathomable-08/Medicine-Recommendation-System)**
-  - Description: A web application that predicts diseases based on user-selected symptoms using **scikit-learn** and **Flask**. It also recommends medicines, diets, and precautions to support health management.
-  - Technologies Used: Flask, scikit-learn, Alpine.js, NumPy, Pandas
+- **[Awaza Mobile App](https://github.com/Unfathomable-08/Awaza-App)**
+  - Description: A complete **social media app** built with expo, react-native, firebase for **live chats** and **custom backend**. It has features like **inbox**, **creating posts**, **liking** and **commenting** on posts.
+  - Technologies Used: Expo, React Native, Firebase, Node.js, Express.js
 
-- **📊 [Data Visualization App](https://github.com/Unfathomable-08/Data-Visualization)**
-  - Description: A web application that visualizes data using **Chart.js**, **React.js**, and **Bootstrap**. The app fetches data and displays it in interactive charts, helping users make informed decisions based on visual data insights.
-  - Technologies Used: React, Chart.js, Bootstrap, JavaScript
-
-- **📝 [Quiz App](https://github.com/Unfathomable-08/Quiz-App)**
-  - Description: A quiz application where users can take quizzes, view results, and track progress. The app uses **Node.js**, **MongoDB**, and **EJS** for dynamic rendering and storing quiz data.
-  - Technologies Used: Node.js, MongoDB, EJS, Express, JavaScript
+- **[Voice Assitant](https://github.com/Unfathomable-08/Voice-Assitant)**
+  - Description: Experience seamless, real-time interactions with Voice Assistant, powered by **LiveKit** and **Google Gemma**. Effortlessly handle conversations with cutting-edge AI-driven voice technology.
+  - Technologies Used: Python, LiveKit, Google Generative AI
