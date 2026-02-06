@@ -82,7 +82,7 @@ _Complete social media app with live chats, posts, likes, and comments._
 ---
 
 ### Voice Assistant
-**[View on GitHub](https://github.com/unfathomable-08/voice-assistant)**  
+**[View on GitHub](https://github.com/unfathomable-08/Voice-Assitant)**  
 _Real-time AI-driven voice assistant powered by LiveKit and Google Gemma._  
 **Tech:** Python, LiveKit, Google Generative AI  
 
