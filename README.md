@@ -109,7 +109,7 @@ I combine **web, mobile, and AI** to deliver **cutting-edge, futuristic applicat
 
 ---
 
-<h2 align="center"> ── Activity Graph ── </h2>
+<h2 align="center"> ── Streak ── </h2>
 
 <div align="center">
 
@@ -119,7 +119,7 @@ I combine **web, mobile, and AI** to deliver **cutting-edge, futuristic applicat
 
 ---
 
-<h2 align="center"> ── Streak ── </h2>
+<h2 align="center"> ── Activity Graph ── </h2>
 
 <div align="center">
 
