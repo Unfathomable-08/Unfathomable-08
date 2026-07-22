@@ -93,7 +93,6 @@ _Real-time AI-driven voice assistant powered by LiveKit and Google Gemma._
 
 <h2 align="center"> ── GitHub Stats ── </h2>
 
-
 ![Top Languages](https://github-readme-stats-wheat-nine-24.vercel.app/api/top-langs/?username=Unfathomable-08&show_icons=true&locale=en&layout=compact&theme=transparent&langs_count=8)
 
 ---
@@ -108,3 +107,22 @@ I am a **Full-Stack Web & Applied AI Developer** specializing in:
 
 I combine **web, mobile, and AI** to deliver **cutting-edge, futuristic applications** that push the boundaries of technology.
 
+---
+
+<h2 align="center"> ── Streak ── </h2>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=unfathomable-08&theme=github-dark-blue&hide_border=true&ring=60A5FA&fire=2563EB&currStreakLabel=60A5FA" />
+
+</div>
+
+---
+
+<h2 align="center"> ── Streak ── </h2>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=unfathomable-08&bg_color=020617&color=dbeafe&line=2563eb&point=60a5fa&area=true&hide_border=true" width="100%" />
+
+</div>
