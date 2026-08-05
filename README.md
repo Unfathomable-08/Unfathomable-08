@@ -117,12 +117,4 @@ I combine **web, mobile, and AI** to deliver **cutting-edge, futuristic applicat
 
 </div>
 
----
-
-<h2 align="center"> ── Activity Graph ── </h2>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=unfathomable-08&bg_color=020617&color=dbeafe&line=2563eb&point=60a5fa&area=true&hide_border=true" width="100%" />
-
 </div>
