@@ -107,14 +107,4 @@ I am a **Full-Stack Web & Applied AI Developer** specializing in:
 
 I combine **web, mobile, and AI** to deliver **cutting-edge, futuristic applications** that push the boundaries of technology.
 
----
-
-<h2 align="center"> ── Streak ── </h2>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=unfathomable-08&theme=github-dark-blue&hide_border=true&ring=60A5FA&fire=2563EB&currStreakLabel=60A5FA" />
-
-</div>
-
 </div>
