@@ -10,7 +10,7 @@ Welcome to my GitHub portfolio. I build **high-performance web & mobile apps** a
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/unfathomable_08/)
 [![X](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/unfathomable_08)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-abasi-6b6884350/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dev-muhammad.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ffffff?style=for-the-badge)](https://dev-muhammad.vercel.app/)
 
 
 <h2 align="center"> ── Skills ── </h2>
