@@ -108,4 +108,6 @@ I am a **Full-Stack Web & Applied AI Developer** specializing in:
 
 I combine **web, mobile, and AI** to deliver **cutting-edge, futuristic applications** that push the boundaries of technology.
 
+Portfolio: [dev-muhammad.vercel.app](https://dev-muhammad.vercel.app)
+
 </div>
